@@ -982,7 +982,7 @@ const Index = () => {
                   <div className="w-5 h-5 bg-pink-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
                     <div className="w-2 h-2 bg-white rounded-full"></div>
                   </div>
-                  <span className="text-gray-400">2nd Floor, Prag Plaza, GS Rd, Bhangagarh, GS Road, Guwahati, Assam 781005</span>
+                  <span className="text-gray-400">2nd Floor, Prag Plaza, GS Rd, Bhangagarh, Guwahati, Assam 781005</span>
                 </div>
                 <div className="flex items-start space-x-3">
                   <div className="w-5 h-5 bg-red-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
